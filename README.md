@@ -26,5 +26,11 @@ I actively contribute to open-source projects, and I'm proud of the impact I've 
   Let's connect and build amazing things together! <br />
   📬 [Email](mailto:cs.04.hamze@gmail.com) <br />
   ⭐️ [Portfolio](https://t.me/husen0_1)
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzeh01&show_icons=true&locale=en&layout=compact" alt="hamzeh01" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzeh01&show_icons=true&locale=en" alt="hamzeh01" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzeh01&" alt="hamzeh01" /></p>
 
 
