@@ -19,6 +19,13 @@
   <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzeh01&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true&title_color=800080"/>
 </a>
 
+<a href="#">
+  <img height="190rem" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzeh01&theme=transparent&hide_border=true&border_radius=4.6&sideLabels=800080&dates=800080&sideNums=800080&currStreakNum=800080&ring=800080&fire=800080&currStreakLabel=800080&stroke=800080"/>
+</a>
+
+
+
+
 </div> 
 
 <div align="center">
