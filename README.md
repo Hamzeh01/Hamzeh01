@@ -102,6 +102,13 @@
   </p>
 </div>
 
+<div align="center">
+  <h3>Trophies</h3>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Hamzeh01&margin-w=15&theme=dracula&column=4&margin-h=15&no-frame=true">
+  </div>
+</div>
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 </a>
