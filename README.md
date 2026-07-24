@@ -1,114 +1,123 @@
-<div align="center">
-  <h2>Hi there 👋, I'm Hossein</h2>
-  <p>I'm a passionate developer and a tech enthusiast 🧑‍💻. Welcome to my GitHub profile, where I love to showcase my projects and contributions 💣. Feel free to explore my repositories and get in touch with me 🥰.</p>
-</div>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:22D3EE&height=260&section=header&text=HOSSEIN%20HAMZEHZADEH&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=Computer%20Networks%20%7C%20Linux%20%7C%20Software%20Engineering&descSize=17&descAlignY=58"
+    alt="Hossein Hamzehzadeh"
+  />
+</p>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
-</a>
+<p align="center">
+  <a href="mailto:cs.04.hamze@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cs.04.hamze%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Tehran%2C_Iran-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Tehran, Iran" />
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=8B5CF6" alt="Open to opportunities" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Hossein;)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Computer+Networks+M.Sc.+Student;Python+%7C+Linux+%7C+Docker+%7C+JavaScript;Exploring+networks%2C+infrastructure%2C+and+applied+ML;Building+clear%2C+reproducible%2C+well-tested+software"
+    alt="Typing introduction"
+  />
+</p>
 
-<div align="center">
-  <br>
-  <a href="#">
-  <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hamzeh01&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true&title_color=800080"/>
-</a>
+## \`> whoami\`
 
-  <a href="#">
-  <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzeh01&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true&title_color=800080"/>
-</a>
+I'm an **M.Sc. student in Computer Networks at the University of Tehran** with
+a **B.Sc. in Computer Engineering from the University of Tabriz**.
 
-<a href="#">
-  <img height="190rem" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzeh01&theme=transparent&hide_border=true&border_radius=4.6&sideLabels=800080&dates=800080&sideNums=800080&currStreakNum=800080&ring=800080&fire=800080&currStreakLabel=800080&stroke=800080"/>
-</a>
+My interests sit where **networking, Linux systems, software engineering,
+DevOps, and applied machine learning** meet. I enjoy turning coursework and
+research ideas into practical, reproducible projects with clear documentation
+and testable code.
 
+- 🛰️ Learning deeply about network protocols, systems, and troubleshooting
+- 🐧 Experimenting in Linux, virtualized, and containerized environments
+- 🐍 Using Python for automation, research code, and practical tools
+- 🌐 Bringing front-end experience with JavaScript, React, HTML, and CSS
+- 🎯 Seeking internships and early-career opportunities where I can contribute and grow
 
+## \`> current_focus\`
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Network Systems</h3>
+      <p>Protocols, system behavior, troubleshooting, secure design, and dependable communication.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐧 Linux & Infrastructure</h3>
+      <p>Linux administration, Bash, Docker, virtual machines, servers, and DevOps foundations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 Software Engineering</h3>
+      <p>Python development, automation, testing, documentation, and reproducible experiments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Applied ML</h3>
+      <p>Machine-learning fundamentals, evaluation, measurement, and research-oriented implementation.</p>
+    </td>
+  </tr>
+</table>
 
-</div> 
+## \`> toolkit\`
 
-<div align="center">
-  <h3>Technologies & Tools</h3>
-  <p>
-    Programming Languages: JavaScript, Python, Java <br>
-    Front-end: HTML, CSS, React.js <br>
-    Database: SQLServer, MySQL
-  </p>
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,linux,docker,bash,git,github,js,react,html,css,bootstrap,vscode&perline=6&theme=dark"
+    alt="Technology toolkit"
+  />
+</p>
 
-<div style="display: inline_block">
-  <p align="center">
-    <a href="#">
-      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Babel" height="30" width="40" title="Babel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg" >
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Bulma" height="30" width="40" title="Bulma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Codepen" height="30" width="40" title="codepen" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Coffeeescript" height="30" width="40" title="Coffescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" >
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Github" height="30" width="40" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do HTML" height="30" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Javascript" height="30" width="40" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do npm" height="30" width="40" title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do react" height="30" width="40" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    </a>
-  </p>
-</div>
+<p align="center">
+  <code>Networks</code>&nbsp;&nbsp;
+  <code>Virtualization</code>&nbsp;&nbsp;
+  <code>Ubuntu Server</code>&nbsp;&nbsp;
+  <code>DevOps Foundations</code>&nbsp;&nbsp;
+  <code>Machine Learning</code>
+</p>
 
-<div align="center">
-  <h3>Contributions</h3>
-  <p>I actively contribute to open-source projects, and I'm proud of the impact I've made in the developer community. If you like my work, consider giving it a ⭐️.</p>
-</div>
+## \`> github_signal\`
 
-<div align="center">
-  <h3>About Me</h3>
-  <p>
-    🌱 I’m currently learning Typescript & React <br>
-    👯 I’m looking to collaborate on pure Front-End projects <br>
-    📫 How to reach me:  
-      <a href="https://t.me/husen0_1">TELEGRAM</a> | 
-      <a href="https://www.instagram.com/husen.0.1/">INSTAGRAM</a> <br>
-    🎓 Studying academically in the field of computer engineering at the University of Tabriz <br>
-    🎂 Born in 2002
-  </p>
-</div>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Hamzeh01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CBD5E1&icon_color=22D3EE"
+    alt="GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzeh01&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CBD5E1"
+    alt="Most used languages"
+  />
+</p>
 
-<div align="center">
-  <h3>Trophies</h3>
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Hamzeh01&margin-w=15&theme=dracula&column=4&margin-h=15&no-frame=true">
-  </div>
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Hamzeh01&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"
+    alt="GitHub contribution streak"
+  />
+</p>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
-</a>
+## \`> connect\`
+
+<p align="center">
+  If you're working on networking, Linux infrastructure, software engineering,
+  or applied ML, I'd be glad to connect.
+</p>
+
+<p align="center">
+  <a href="mailto:cs.04.hamze@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_talk-cs.04.hamze%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Hossein by email" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=100&section=footer"
+    alt=""
+  />
+</p>
